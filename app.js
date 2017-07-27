@@ -5,7 +5,7 @@ var routes = require('./routes');
 
 var app = express();
 
-//middleware.config(app);
+// middleware.config(app);
 //routes.register(app);
 
 //TODO: Write Register routes
